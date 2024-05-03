@@ -1,12 +1,10 @@
-import TestingPages from "./pages/TestingPages";
-
 type Props = {};
 
 const App = (props: Props) => {
   return (
-    <>
-      <TestingPages></TestingPages>
-    </>
+    <div className="flex justify-center bg-blue-400 min-h-screen items-center">
+      ss
+    </div>
   );
 };
 
